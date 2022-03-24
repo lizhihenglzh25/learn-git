@@ -3,8 +3,5 @@ Git is free software distributed under the GPL.
 this is a test
 Git has a mutable index called stage.
 test dev branch
-<<<<<<< HEAD
 creating a new branch is quick & simple
-=======
 creating a new branch is quick AND simple 
->>>>>>> feature1
